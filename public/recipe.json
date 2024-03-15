@@ -1,0 +1,104 @@
+[
+  {
+    "Recipe_id": "1",
+    "Recipe_name": "Grilled Lemon Herb Chicken",
+    "Recipe_image": "https://example.com/grilled_lemon_herb_chicken.jpg",
+    "Short_description": "Juicy and flavorful grilled chicken with a zesty lemon and herb marinade.",
+    "Ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "2 lemons (juiced)",
+      "4 cloves garlic (minced)",
+      "2 tbsp olive oil",
+      "2 tsp dried oregano",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "320 calories"
+  },
+  {
+    "Recipe_id": "2",
+    "Recipe_name": "Caprese Salad",
+    "Recipe_image": "https://example.com/caprese_salad.jpg",
+    "Short_description": "A simple and refreshing Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+    "Ingredients": [
+      "4 large tomatoes (sliced)",
+      "200 g fresh mozzarella cheese (sliced)",
+      "20 fresh basil leaves",
+      "2 tbsp balsamic vinegar",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "Preparing_time": "15 min",
+    "Calories": "180 calories"
+  },
+  {
+    "Recipe_id": "3",
+    "Recipe_name": "Vegetable Stir-Fry",
+    "Recipe_image": "https://example.com/vegetable_stir_fry.jpg",
+    "Short_description": "A colorful and nutritious stir-fry featuring an assortment of fresh vegetables.",
+    "Ingredients": [
+      "200 g broccoli florets",
+      "200 g bell peppers (sliced)",
+      "200 g carrots (sliced)",
+      "200 g snap peas",
+      "120 ml soy sauce",
+      "2 cloves garlic (minced)",
+      "2 tsp ginger (minced)",
+      "2 tbsp vegetable oil"
+    ],
+    "Preparing_time": "20 min",
+    "Calories": "150 calories"
+  },
+  {
+    "Recipe_id": "4",
+    "Recipe_name": "Pasta Primavera",
+    "Recipe_image": "https://example.com/pasta_primavera.jpg",
+    "Short_description": "A delightful pasta dish packed with seasonal vegetables and tossed in a light cream sauce.",
+    "Ingredients": [
+      "300 g pasta (penne or spaghetti)",
+      "200 g cherry tomatoes (halved)",
+      "200 g asparagus (cut into pieces)",
+      "200 g yellow squash (sliced)",
+      "200 g zucchini (sliced)",
+      "120 ml heavy cream",
+      "2 cloves garlic (minced)",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "Preparing_time": "25 min",
+    "Calories": "280 calories"
+  },
+  {
+    "Recipe_id": "5",
+    "Recipe_name": "Homemade Margherita Pizza",
+    "Recipe_image": "https://example.com/margherita_pizza.jpg",
+    "Short_description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "Ingredients": [
+      "1 pizza dough ball (store-bought or homemade)",
+      "200 g fresh mozzarella cheese (sliced)",
+      "2 large tomatoes (sliced)",
+      "20 fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "Preparing_time": "35 min",
+    "Calories": "250 calories"
+  },
+  {
+    "Recipe_id": "6",
+    "Recipe_name": "Banana Berry Smoothie",
+    "Recipe_image": "https://example.com/banana_berry_smoothie.jpg",
+    "Short_description": "A refreshing and nutritious smoothie made with bananas, mixed berries, and yogurt.",
+    "Ingredients": [
+      "2 ripe bananas",
+      "150 g mixed berries (strawberries, blueberries, raspberries)",
+      "240 ml plain yogurt",
+      "120 ml milk (or almond milk)",
+      "1 tbsp honey (optional)"
+    ],
+    "Preparing_time": "10 min",
+    "Calories": "180 calories"
+  }
+]

@@ -2,7 +2,7 @@
   {
     "Recipe_id": "1",
     "Recipe_name": "Grilled Lemon Herb Chicken",
-    "Recipe_image": "https://example.com/grilled_lemon_herb_chicken.jpg",
+    "Recipe_image": "https://i.ibb.co/cv9fLdT/recipe1.png",
     "Short_description": "Juicy and flavorful grilled chicken with a zesty lemon and herb marinade.",
     "Ingredients": [
       "550 g chicken",
@@ -20,7 +20,7 @@
   {
     "Recipe_id": "2",
     "Recipe_name": "Caprese Salad",
-    "Recipe_image": "https://example.com/caprese_salad.jpg",
+    "Recipe_image": "https://i.ibb.co/44QHzHW/recipe2.png",
     "Short_description": "A simple and refreshing Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
     "Ingredients": [
       "4 large tomatoes (sliced)",
@@ -36,7 +36,7 @@
   {
     "Recipe_id": "3",
     "Recipe_name": "Vegetable Stir-Fry",
-    "Recipe_image": "https://example.com/vegetable_stir_fry.jpg",
+    "Recipe_image": "https://i.ibb.co/cv9fLdT/recipe1.png",
     "Short_description": "A colorful and nutritious stir-fry featuring an assortment of fresh vegetables.",
     "Ingredients": [
       "200 g broccoli florets",
@@ -54,7 +54,7 @@
   {
     "Recipe_id": "4",
     "Recipe_name": "Pasta Primavera",
-    "Recipe_image": "https://example.com/pasta_primavera.jpg",
+    "Recipe_image": "https://i.ibb.co/44QHzHW/recipe2.png",
     "Short_description": "A delightful pasta dish packed with seasonal vegetables and tossed in a light cream sauce.",
     "Ingredients": [
       "300 g pasta (penne or spaghetti)",
@@ -73,7 +73,7 @@
   {
     "Recipe_id": "5",
     "Recipe_name": "Homemade Margherita Pizza",
-    "Recipe_image": "https://example.com/margherita_pizza.jpg",
+    "Recipe_image": "https://i.ibb.co/cv9fLdT/recipe1.png",
     "Short_description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
     "Ingredients": [
       "1 pizza dough ball (store-bought or homemade)",
@@ -89,7 +89,7 @@
   {
     "Recipe_id": "6",
     "Recipe_name": "Banana Berry Smoothie",
-    "Recipe_image": "https://example.com/banana_berry_smoothie.jpg",
+    "Recipe_image": "https://i.ibb.co/44QHzHW/recipe2.png",
     "Short_description": "A refreshing and nutritious smoothie made with bananas, mixed berries, and yogurt.",
     "Ingredients": [
       "2 ripe bananas",

@@ -2,6 +2,7 @@
 
 import PropTypes from 'prop-types'
 import Cook from "../Cook/Cook";
+// eslint-disable-next-line no-unused-vars
 import Cooking from '../Cooking/Cooking';
 
 

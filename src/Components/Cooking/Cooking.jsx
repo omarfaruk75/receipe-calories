@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import propType from 'prop-types';
 const Cooking = ({cooks}) => {
      const { Recipe_name,Preparing_time,Calories} = cooks;

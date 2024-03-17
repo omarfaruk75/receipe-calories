@@ -1,16 +1,21 @@
 import propType from 'prop-types';
-const Cooking = ({handleRemove}) => {
-     const {Recipe_name,Preparing_time,Calories} = handleRemove();
+const Cooking = ({cooks}) => {
+     const { Recipe_name,Preparing_time,Calories} = cooks;
     return (
-        <div>
-            <div className="flex flex-row justify-between my-4 items-center ">
+        <tbody>
+             <tr >
+
+                <td>{Recipe_name.slice(0,15)}</td>
+                <td>{Preparing_time}</td>
+                <td>{Calories}</td>
                 
-                <p>{Recipe_name.slice(0,15)}</p>
-                <p>{Preparing_time}</p>
-                <p>{Calories}</p>
-            </div>
-        </div>
+            
+             </tr>
+            </tbody>
     );
 };
-
+Cooking.propType = {
+    cooks:propType.object
+}
 export default Cooking;
+

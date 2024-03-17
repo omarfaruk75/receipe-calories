@@ -1,21 +1,21 @@
 /* eslint-disable react/prop-types */
 import PropTypes from 'prop-types';
-const Cook = ({cook,handleRemove}) => {
+const Cook = ({cook,index,handleDelete}) => {
     
-    const {Recipe_name,Preparing_time,Calories} = cook;
+    const {Recipe_id,Recipe_name,Preparing_time,Calories} = cook;
     return (
-        <div>
-            <div className="flex flex-row justify-between my-4 items-center ">
-                
-                <p>{Recipe_name.slice(0,15)}</p>
-                <p>{Preparing_time}</p>
-                <p>{Calories}</p>
-                <button className='bg-red-400 px-3 py-2 rounded-full text-white' onClick={()=>handleRemove(Recipe_id)}>Preparing</button>
+      
+            <tbody>
+             <tr>
+                <td>{index+1}</td>
+                <td>{Recipe_name.slice(0,15)}</td>
+                <td>{Preparing_time}</td>
+                <td>{Calories}</td>
+                <td><button className='bg-red-400 px-3 py-2 rounded-full text-white' onClick={()=>handleDelete(Recipe_id)}>Preparing</button></td>
             
-
-            </div>
-            
-        </div>
+             </tr>
+            </tbody>
+    
     );
 };
 Cook.PropTypes = {

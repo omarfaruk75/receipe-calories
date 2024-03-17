@@ -12,7 +12,7 @@ useEffect(()=>{
 },[])
     return (
 
-        <div className="w-8/12 grid grid-cols-2 gap-8">
+        <div className="md:w-8/12 grid grid-cols-1 md:grid-cols-2 gap-4">
            {
              cards.map(card=> <Card 
                 key={card.Recipe_id} 
